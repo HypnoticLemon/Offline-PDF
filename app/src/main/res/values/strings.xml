@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PDF Library Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download">Download</string>
+    <string name="view">view</string>
+    <string name="retry">RETRY</string>
+    <string name="queued">QUEUED</string>
+    <string name="downloading">downloading...</string>
+    <string name="percent_progress">%1$d%%</string>
+    <string name="status_unknown">Status Unknown</string>
+    <string name="permission_not_enabled">Please enable the Write External Storage Permission</string>
+</resources>
